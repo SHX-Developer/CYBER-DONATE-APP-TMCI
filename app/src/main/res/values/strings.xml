@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cyber Donate</string>
+
+    <string name="mobile_legends">MOBILE LEGENDS</string>
+    <string name="pubg_mobile">PUBG MOBILE</string>
+    <string name="genshin_impact">GENSHIN IMPACT</string>
+    <string name="honkai_star_rail">HONKAI STAR RAIL</string>
+
+
+    <string name="service_name">CYBER DONATE</string>
+    <string name="welcome_subtitle">Instantly recharge your favorite games and dive into action.</string>
+    <string name="start_button">START</string>
+    <string name="features_text">Fast • Secure • Easy</string>
+
+
+    <string name="text_1_section_2">Top-up with CYBER DONATE</string>
+    <string name="text_2_section_2">Popular games with us!</string>
+    <string name="text_3_section_2">Why CYBER DONATE?</string>
+    <string name="easy_text">Easy ⭐</string>
+    <string name="cheap_text">Cheap 💸</string>
+    <string name="secure_text">Secure 🔒</string>
+
+    <string name="mobile_legends_text_1">Mobile Legends diamond top-up.</string>
+    <string name="mobile_legends_text_2">Select the amount of diamonds.</string>
+
+    <string name="pubg_mobile_text_1">PUBG Mobile UC top-up.</string>
+    <string name="pubg_mobile_text_2">Select the amount of UC.</string>
+
+    <string name="genshin_impact_text_1">Genshin Impact crystal recharge.</string>
+    <string name="genshin_impact_text_2">Select the amount of crystals.</string>
+
+    <string name="honkai_star_rail_text_1">Honkai: Star Rail shard top-up.</string>
+    <string name="honkai_star_rail_text_2">Select the amount of shards.</string>
+
+    <string name="order_text">ORDER</string>
+
+
+</resources>
